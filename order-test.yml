@@ -14,7 +14,7 @@ server:
   port: 8081
 
 env:
-  test1
+  test2
 
 girl:
   name: lili
