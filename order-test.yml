@@ -22,7 +22,7 @@ server:
   port: 8081
 
 env:
-  test200
+  test12
 
 girl:
   name: lili
