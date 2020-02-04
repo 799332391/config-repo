@@ -7,3 +7,9 @@ zuul:
       sensitiveHeaders:
   ignored-patterns:
       - /**/product/listForOrder
+spring:
+  rabbitmq:
+    host: 192.168.17.128
+    port: 5672
+    username: guest
+    password: guest
