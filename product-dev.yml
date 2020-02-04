@@ -15,3 +15,5 @@ spring:
   redis:
     host: 192.168.17.128
     port: 6379
+boy:
+  age: 18
