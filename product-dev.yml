@@ -15,4 +15,4 @@ spring:
   redis:
     host: 192.168.17.128
     port: 6379
-boy: 18
+boy: 180
